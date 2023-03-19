@@ -23,7 +23,7 @@ In the past, I worked on research project hosted by Semeval2023 called [ValueEva
 - This project can be used as an extension which is made to help visually impaired people browse the image content on the internet
 
 #### Tech Stack:
-Python | Tensorflow | Keras | Streamlit | Gradio| Docker 
+Python | Tensorflow | Keras | Streamlit | Gradio | Docker 
 
 ### [Detection of Human Values from Text](https://github.com/SruthiSundharram/ValueEval_SemEval2023Task)
 - The goal of the task is given a textual argument and a human value category, classify whether or not the argument draws on that particular category.
