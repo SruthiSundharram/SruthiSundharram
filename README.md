@@ -23,7 +23,7 @@ In the past, I worked on research project hosted by Semeval2023 called [ValueEva
 - This project can be used as an extension which is made to help visually impaired people browse the image content on the internet
 
 #### Tech Stack:
-Docker | Tensorflow | Keras | Python | Streamlit | Gradio
+Python | Tensorflow | Keras | Streamlit | Gradio| Docker 
 
 ### [Detection of Human Values from Text](https://github.com/SruthiSundharram/ValueEval_SemEval2023Task)
 - The goal of the task is given a textual argument and a human value category, classify whether or not the argument draws on that particular category.
@@ -38,7 +38,7 @@ Python | Tensorflow | Keras | NLTK
 - The ain goal of this project is to reduce the amount of duplicate entries that are often present inForums and QnA sections of many eLearning Platforms.
 -  This project was aimed at finding those duplicate questions using the recent advances in natural language processing domain like embeddings from pretrained models
 #### Tech Stack:
-Python | Tensorflow | Keras | Docker | Streamlit
+Python | Tensorflow | Keras |  Streamlit | Docker 
 <!--
 ###
 
