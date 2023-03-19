@@ -17,7 +17,7 @@ In the past, I worked on research project hosted by Semeval2023 called [ValueEva
 
 
 ## Recent Projects
-### [Image Captioning to aid the Visually Imapired using Pretrained Transformer Model](https://github.com/SruthiSundharram/Image_Captioning_to_aid_the_Visually_impaired_using_Pretrained_Transformer_Model)
+### [Image Captioning to aid the Visually Impaired using Pretrained Transformer Model](https://github.com/SruthiSundharram/Image_Captioning_to_aid_the_Visually_impaired_using_Pretrained_Transformer_Model)
 - Implemented deep learning model using pretrained models from Hugging face to generate captions for images.
 - These captions are further fed as input to  Google text-to-speech API for reading aloud the captions. 
 - This project can be used as an extension which is made to help visually impaired people browse the image content on the internet
