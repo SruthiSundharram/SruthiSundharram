@@ -17,7 +17,7 @@ In the past, I worked on research project hosted by Semeval2023 called [ValueEva
 
 
 ## Recent Projects
-[Image Captioning to aid the Visually Imapired using Pretrained Transformer Model](https://github.com/SruthiSundharram/Image_Captioning_to_aid_the_Visually_impaired_using_Pretrained_Transformer_Model)
+### [Image Captioning to aid the Visually Imapired using Pretrained Transformer Model](https://github.com/SruthiSundharram/Image_Captioning_to_aid_the_Visually_impaired_using_Pretrained_Transformer_Model)
 - Implemented deep learning model using pretrained models from Hugging face to generate captions for images.
 - These captions are further fed as input to  Google text-to-speech API for reading aloud the captions. 
 - This project can be used as an extension which is made to help visually impaired people browse the image content on the internet
@@ -25,7 +25,12 @@ In the past, I worked on research project hosted by Semeval2023 called [ValueEva
 #### Tech Stack:
 Docker | Tensorflow | Keras | Python | Streamlit | Gradio
 
-
+### [Detection of Human Values from Text](https://github.com/SruthiSundharram/ValueEval_SemEval2023Task)
+- The goal of the task is given a textual argument and a human value category, classify whether or not the argument draws on that particular category.
+- Implemented ensemble model to classify human values from a given text.
+- This is associated with Task organised by SemEval2023 called [ValueEval](https://touche.webis.de/semeval23/touche23-web/index.html).
+#### Tech Stack:
+Python | Tensorflow | Keras
 
 <!--
 ###
