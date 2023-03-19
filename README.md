@@ -30,7 +30,7 @@ Docker | Tensorflow | Keras | Python | Streamlit | Gradio
 - Implemented ensemble model to classify human values from a given text.
 - This is associated with Task organised by SemEval2023 called [ValueEval](https://touche.webis.de/semeval23/touche23-web/index.html).
 #### Tech Stack:
-Python | Tensorflow | Keras
+Python | Tensorflow | Keras | NLTK 
 
 ### [Identifying duplicate questions using machine learning]() 
 - Implemented end-to-end machine learning model to predict if given two questions have the same semantic meaning.
