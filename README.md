@@ -12,7 +12,7 @@ I am pursuing a Master's with Thesis in Computer Science at Purdue University wh
 
 ## Recent Projects
 
-### [Comparative Analysis of Babesia and Berrolia bacterium in the Investigation of Lyme Disease(https://github.com/SruthiSundharram/ComparativeAnalysis)
+### [Comparative Analysis of Babesia and Berrolia bacterium in the Investigation of Lyme Disease](https://github.com/SruthiSundharram/ComparativeAnalysis)
 - Implemented various analyses for understanding similarities between Babesia and Borrelia burgdorferi
 ### Tech Stack:
 R | BioStrings | SeqinR | Ggplot2 | Ape
