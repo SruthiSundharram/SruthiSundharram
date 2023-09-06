@@ -1,22 +1,23 @@
-# Hello World !
+# Hello World!
 
 
-I am Sruthi Sundharram, a passionate and enthusiast with research interest in the field of Artificial Intelligence and its application in Bioinformatics and Medicine.
+I am Sruthi Sundharram, a passionate and enthusiast with research interest in the field of Artificial Intelligence and its application in Bioinformatics, Neuroscience, Psychology and Medicine.
 
-I am pursuing Masters in Computer Science at Purdue University wherein I have taken courses like Machine Learning, Deep Learning, Natural Language Processing and Bioinformatics.
+I am pursuing a Master's with Thesis in Computer Science at Purdue University wherein I have taken courses like Machine Learning, Deep Learning, Natural Language Processing, Human-Computer Interaction, Bioinformatics and Expert Systems.
 
-## Research Focus
+## Publication
 
-I am currently working on three different reserach field 
-- Computational Neuroscience
-- Quantum Machine Learning
-- Image Steganography
-
-
-In the past, I worked on research project hosted by Semeval2023 called [ValueEval](https://touche.webis.de/semeval23/touche23-web/index.html) which is under review to be published.
+ I worked on research project hosted by Semeval2023 called [ValueEval](https://touche.webis.de/semeval23/touche23-web/index.html) which is published in ACL [LINK](https://aclanthology.org/2023.semeval-1.302/)
 
 
 ## Recent Projects
+
+### [Comparative Analysis of Babesia and Berrolia bacterium in the Investigation of Lyme Disease]
+(https://github.com/SruthiSundharram/ComparativeAnalysis)
+- Implemented various analyses for understanding similarities between Babesia and Borrelia burgdorferi
+### Tech Stack:
+R | BioStrings | SeqinR | Ggplot2 | Ape
+
 ### [Image Captioning to aid the Visually Impaired using Pretrained Transformer Model](https://github.com/SruthiSundharram/Image_Captioning_to_aid_the_Visually_impaired_using_Pretrained_Transformer_Model)
 - Implemented deep learning model using pretrained models from Hugging face to generate captions for images.
 - These captions are further fed as input to  Google text-to-speech API for reading aloud the captions. 
