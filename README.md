@@ -7,7 +7,7 @@ I am pursuing a Master's with Thesis in Computer Science at Purdue University wh
 
 ## Publication
 
- I worked on research project hosted by Semeval2023 called [ValueEval](https://touche.webis.de/semeval23/touche23-web/index.html) which is published in ACL [LINK](https://aclanthology.org/2023.semeval-1.302/)
+ I worked on research project hosted by Semeval2023 called [ValueEval](https://touche.webis.de/semeval23/touche23-web/index.html) which is published in [ACL Conference 2023] (https://aclanthology.org/2023.semeval-1.302/)
 
 
 ## Recent Projects
