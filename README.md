@@ -1,9 +1,7 @@
 # Hello World!
 
 
-I am Sruthi Sundharram, a passionate and enthusiast with research interest in the field of Artificial Intelligence and its application in Bioinformatics, Neuroscience, Psychology and Medicine.
-
-I am pursuing a Master's with Thesis in Computer Science at Purdue University wherein I have taken courses like Machine Learning, Deep Learning, Natural Language Processing, Human-Computer Interaction, Bioinformatics and Expert Systems.
+I'm Sruthi Sundharram, a dedicated researcher with a keen interest in Artificial Intelligence and its diverse applications, spanning Bioinformatics, Neuroscience, Psychology, and Medicine. Currently pursuing a Master's degree with a thesis in Computer Science at Purdue University, I have a strong academic foundation in Machine Learning, Deep Learning, Natural Language Processing, Human-Computer Interaction, Bioinformatics, and Expert Systems. My passion lies in harnessing the power of AI to advance our understanding and improve outcomes in various interdisciplinary fields.
 
 ## Publication
 
