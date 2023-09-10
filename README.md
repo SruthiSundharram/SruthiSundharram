@@ -5,7 +5,7 @@ I'm Sruthi Sundharram, a dedicated researcher with a keen interest in Artificial
 
 ## Publication
 
- I worked on research project hosted by Semeval2023 called [ValueEval](https://touche.webis.de/semeval23/touche23-web/index.html) which is published in [ACL Conference 2023](https://aclanthology.org/2023.semeval-1.302/)
+ I worked on research project hosted by Semeval2023 called [ValueEval](https://touche.webis.de/semeval23/touche23-web/index.html) which is published  at The 17th International Workshop on Semantic Evaluation at [ACL Conference 2023](https://aclanthology.org/2023.semeval-1.302/)
 
 
 ## Recent Projects
